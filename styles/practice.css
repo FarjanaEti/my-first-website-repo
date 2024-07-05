@@ -1,0 +1,31 @@
+h3{
+    color: brown;             
+}
+
+#color{
+    color:red;                          
+}
+.mylist{
+     color: green;   
+     list-style-position: inside;
+     text-align: center;                     
+}
+.para{
+    color: cadetblue;
+    border: 10px solid black; 
+    padding: 5%;  
+    border-radius: 50px 0px 50px 0px; 
+    box-shadow: 5px 5px 10px rgba(255, 0, 0, 0.593);
+    margin: 20px 10px;   
+                 
+}
+.img{
+     border: 5px darkgray dashed; 
+     background-color: black;  
+     width: 30%; 
+     text-align: center; 
+     margin: auto;
+}
+.inline{
+   display: flex;                           
+}
